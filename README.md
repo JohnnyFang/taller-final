@@ -47,8 +47,7 @@ gh-pages.
 f. Se debe publicar una versión (tag) del producto desde la rama principal
 (master)   
    
-3. Documento en PDF o captura de pantalla si es el caso:
-
+3. Documento en PDF o captura de pantalla si es el caso:   
 a. Listado de SOLO los Product Backlog Items (PBI).   
 b. Listado de los Sprint Tasks con sus respectivos Product Backlog Item
 (Parent Task) asociado, responsables y fechas.   
