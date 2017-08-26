@@ -1,0 +1,22 @@
+.container
+{
+  margin-top: 15px;
+  margin-top: 15px;
+}
+
+h1,h2,h3,p{
+  color: grey;
+}
+
+.card-block {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.blurred
+{
+  color: grey;
+}
